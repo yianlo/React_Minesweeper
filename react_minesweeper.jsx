@@ -5,7 +5,7 @@ var React = require('react'),
 
 var MyComponent = React.createClass({
   render: function() {
-    return < Game initBombCount={40}/>;
+    return <Game initBombCount={50}/>;
   }
 });
 
