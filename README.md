@@ -5,7 +5,7 @@ Classic Minesweeeper game built with React and Javascript.
 ## How to play
 * Clone this repo
 * If you don't have Node.js, you can install it [here] (https://nodejs.org/en/)
-* In terminal, run `npm install` and run `webpack`
+* In terminal, run `npm install` and `webpack`
 * Open game with `open index.html`
 
 ## Feature
