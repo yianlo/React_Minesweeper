@@ -1,6 +1,6 @@
 # React Minesweeper
 
-Classic Minesweeeper game built with React and Javascript.
+Classic Minesweeeper game built with React.js and Javascript.
 
 ## Usage
 * Clone this repository
@@ -8,8 +8,8 @@ Classic Minesweeeper game built with React and Javascript.
 * In terminal, run `npm install` and `webpack`
 * Open game with `open index.html`
 
-## Feature
-* Algorithm to calculate tile exapansion based on neighboring bomb count
+## Features
+* Algorithm to calculate tile expansion based on neighboring bomb count
 * Real-time timer, flag count and game status indicators using React components
 
 ## Screenshots
