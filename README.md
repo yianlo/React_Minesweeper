@@ -1,5 +1,7 @@
 # React Minesweeper
 
+###[Live Link](http://yianlo.github.io/React_Minesweeper/)
+
 Classic Minesweeeper game built with React.js and Javascript.
 
 ## Usage

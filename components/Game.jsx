@@ -2,8 +2,7 @@ var React = require('react'),
     Minesweeper = require('../minesweeper'),
     Board = require('./Board'),
     FlagCounter = require('./flag_counter'),
-    Timer = require('./Timer'),
-    ReactCSSTransitionGroup = require('react-addons-css-transition-group');
+    Timer = require('./Timer');
 
 var Game = React.createClass({
 
