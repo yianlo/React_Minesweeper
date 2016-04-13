@@ -9,9 +9,13 @@ html, body, div, section, span, nav{
   text-align: center;
 }
 
+body{
+  background: rgba(20, 20, 20, 0.8);
+}
+
 #main {
   min-width: 1000px;
-  margin: 0 auto;
+  margin: 80px auto;
 }
 
 nav {
