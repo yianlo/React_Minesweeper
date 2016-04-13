@@ -64,6 +64,7 @@ nav {
   padding: 7px;
   border-style: outset;
   border-width: 4px;
+  box-shadow: 0 0 15px #000;
 }
 
 .board {
