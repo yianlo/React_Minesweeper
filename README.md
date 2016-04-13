@@ -26,5 +26,6 @@ Classic Minesweeeper game built with React.js and Javascript.
 [game-lost]: ./screenshots/game-lost.png
 [game-won]: ./screenshots/game-won.png
 
-## Todos
-* Add difficulty levels
+## Future Features
+* Difficulty levels
+* Automatic tile expansion in specific of number of flags == number in square surrounding square

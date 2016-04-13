@@ -52,11 +52,10 @@ var Game = React.createClass({
   updateGame: function(tile, flagging){
     if (this.state.new) { this.setState({running: true, new: false }); }
 
-    if (flagging){
+    if (flagging || tile.flagged){
       tile.toggleFlag();
       this.updateFlagCount(tile);
     } else {
-      tile.toggleClick();
       tile.bombed ? this.state.board.exposeBombs() : tile.explore();
     }
 
