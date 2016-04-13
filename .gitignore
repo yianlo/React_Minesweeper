@@ -19,8 +19,6 @@
 
 # Ignore pow environment settings
 .powenv
-node_modules
-bundle.js*
 
 
 # Ignore application configuration
